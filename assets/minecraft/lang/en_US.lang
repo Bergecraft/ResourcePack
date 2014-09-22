@@ -1,5 +1,6 @@
 tile.oreGold.name=Copper Ore
 tile.blockGold.name=Block of Bronze
+item.ingotGold.name=Bronze Ingot
 item.swordGold.name=Bronze Sword
 item.shovelGold.name=Bronze Shovel
 item.pickaxeGold.name=Bronze Pickaxe
@@ -9,5 +10,7 @@ item.helmetGold.name=Bronze Helmet
 item.chestplateGold.name=Bronze Chestplate
 item.leggingsGold.name=Bronze Leggings
 item.bootsGold.name=Bronze Boots
+item.appleGold.name=Gilded Apple
 item.goldNugget.name=Bronze Coin
+item.carrotGolden.name=Gilded Carrot
 item.horsearmorgold.name=Bronze Horse Armor
